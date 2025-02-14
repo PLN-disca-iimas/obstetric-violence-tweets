@@ -4,7 +4,7 @@
 Documentación utilizada para el proceso de anotación manual para identificar tweets relacionados con Violencia Obstétrica.
 
 <a href="https://pln-disca-iimas.github.io/obstetric-violence-tweets/" target="_blank" title="Acceder a Guías de anotación">
-<img src="img/guidelines.png" style="box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset; border-radius: 10px; margin-bottom:1em;" alt="guía anotación">
+<img src="img/guidelines.png" alt="guía anotación">
 </a>
 
 ## Palabras clave
